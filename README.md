@@ -1,2 +1,3 @@
 sample git repo
-Other content
+Sample content
+More content
